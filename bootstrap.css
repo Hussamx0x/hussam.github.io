@@ -1,0 +1,27 @@
+body{
+
+	background-image: url(Hiking.jpg);
+	background-size: 1920px 1080px ;
+	background-color: center center;
+	background-repeat: no-repeat;
+	
+}
+
+.text-monospace{
+	font-size: 300%;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+
+	margin:150px;
+	color: 	#ffc107;
+}
+
+ .btn-warning{
+	position: relative;
+  left: 48%; 
+  border-radius: 1000px;
+
+
+}
